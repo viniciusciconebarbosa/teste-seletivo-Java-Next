@@ -1,4 +1,4 @@
-# 🌳 Analisador de Hierarquia de Palavras (Full-Stack)
+# Analisador de Hierarquia de Palavras (Full-Stack)
 
 > **Status:** Concluído ✔️ | Desafio Técnico Nível Pleno
 
